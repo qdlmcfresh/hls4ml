@@ -6,6 +6,7 @@ The ``VivadoAccelerator`` backend of ``hls4ml`` leverages the `PYNQ <http://pynq
 Currently ``hls4ml`` supports the following boards:
 
 * `pynq-z2 <https://www.xilinx.com/support/university/xup-boards/XUPPYNQ-Z2.html>`_ (part: ``xc7z020clg400-1``)
+* `zybo-z7-20 <https://digilent.com/reference/programmable-logic/zybo-z7/start>`_ (part: ``xc7z020clg400-1``)
 * `zcu102 <https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html>`_ (part: ``xczu9eg-ffvb1156-2-e``)
 * `alveo-u50 <https://www.xilinx.com/products/boards-and-kits/alveo/u50.html>`_ (part: ``xcu50-fsvh2104-2-e``)
 * `alveo-u250 <https://www.xilinx.com/products/boards-and-kits/alveo/u250.html>`_ (part: ``xcu250-figd2104-2L-e``)
